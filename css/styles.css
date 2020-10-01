@@ -33,3 +33,54 @@ button {
     font-weight: bold;
     margin-top: 5px;
 }
+
+table {
+    width: 1280px;
+    border-collapse: collapse;
+    border: 2px black;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 30px;
+    margin-top: 20px;
+  }
+
+  tr, td {
+    padding: 10px;
+}
+
+
+  .colorTitulo {
+    background-color: black;
+    color: #fff;
+    height: 30px;
+}
+
+.eliminaColor {
+    background-color: red;
+    color: #fff;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.updateColor {
+    background-color: orange;
+    color: #fff;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+select {
+    border-radius: 10px;
+    border-color: rgb(189, 195, 199);
+    height: 35px;
+    width: 300px;
+    margin-right: 5px;
+    margin-top: 5px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
